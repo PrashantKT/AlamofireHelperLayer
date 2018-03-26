@@ -1,6 +1,13 @@
 # AlamofireHelperLayer
 Helper to Call Webservice with ease
 
+How to install 
+
+1) Drag and drop API Helpers in your project
+2) Goto APIRouter and add your webservice caes like added in example for login
+
+Call like below 
+
 
     override func viewDidLoad() {
         super.viewDidLoad()
