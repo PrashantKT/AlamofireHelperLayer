@@ -2,7 +2,7 @@
 
 <h3>Very Clean and managed structure </h3>
 
-<h2>Helper to Call Webservice with ease (You need some 10 Mins) </h2>
+<h2>Helper to Call Webservice with ease (You need approx 15 Mins to make it run) </h2>
 
 How to install 
 
