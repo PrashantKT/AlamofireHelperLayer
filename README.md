@@ -24,7 +24,7 @@ For Json
 	  
 	}
 	
-Create Codable general class 
+Optional Create Codable general class 
 
 	import Foundation
 
@@ -42,7 +42,7 @@ Create Codable general class
 
 	}
 
-And 
+And  Create Your API Codable Class I used https://app.quicktype.io/
 
 	import Foundation
 
@@ -66,6 +66,7 @@ Call it with
         }
     }
     
+Easy right ?
    
  ## Donation
 If this project help you reduce time to develop, you can give me a cup of coffee  :) 
